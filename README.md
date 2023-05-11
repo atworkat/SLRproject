@@ -4,3 +4,5 @@ atwork's "AI for Good" project aims to develop a machine learning model that can
 
 See more at  
 https://slrproject.ai/  
+
+More to come in the next weeks. ;)
